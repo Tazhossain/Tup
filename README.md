@@ -14,6 +14,12 @@
 
 ## 📥 Installation
 
+### One-Line Install
+```bash
+curl -fsSL https://raw.githubusercontent.com/Tazhossain/Tup/main/tup.sh -o tup && chmod u+x tup && mv tup $PREFIX/bin/ && tup
+```
+
+### Alternative Method
 ```bash
 curl -sSL https://raw.githubusercontent.com/Tazhossain/Tup/main/tup.sh | bash
 ```
