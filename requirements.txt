@@ -1,0 +1,7 @@
+coreutils
+findutils
+
+python
+perl
+ruby
+nodejs
